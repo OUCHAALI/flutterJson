@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "name": "pizza végétarienne",
+    "imageUrl": "images/pizza1.png",
+    "price": "60",
+    "components": "Sauce tomate, mozzarella aubergine, haricots, 3 paierons, oignon. champignon"
+  },
+  {
+    "id": 1,
+    "name": "Pizza italienne",
+    "imageUrl": "images/pizza2.png",
+    "price": "70",
+    "components": "Sauce tomate. mozzarelio. crevettes, calamar 3 paysans. olives"
+  },
+  {
+    "id": 2,
+    "name": "Sandwitch",
+    "imageUrl": "images/sandwich.png",
+    "price": "40",
+    "components": "Tomate, oignon. poivron vert, sauce vinaigrette"
+  },
+  {
+    "id": 3,
+    "name": "Frite",
+    "imageUrl": "images/coca1.png",
+    "price": "15",
+    "components": "Pomme de terre"
+  },
+  {
+    "id": 4,
+    "name": "Boisson",
+    "imageUrl": "images/coca.png",
+    "price": "10",
+    "components": "Coca Cola, Fanta, Pipsi"
+  },
+  {
+    "id": 5,
+    "name": "Salade",
+    "imageUrl": "images/salade.png",
+    "price": "30",
+    "components": "Tomate, oignon. poivron vert, sauce vinaigrette"
+  },
+  {
+    "id": 6,
+    "name": "hriira",
+    "imageUrl": "images/soupe.png",
+    "price": "20",
+    "components": "Fromage"
+  },
+  {
+    "id": 7,
+    "name": "Tajin",
+    "imageUrl": "images/tajin.png",
+    "price": "50",
+    "components": "Tomate, pomme de terre, viande hachée"
+  },
+  {
+    "id": 8,
+    "name": "Burgers",
+    "imageUrl": "images/burger.png",
+    "price": "50",
+    "components": "viande hachée"
+  },
+  {
+    "id": 9,
+    "name": "Pates",
+    "imageUrl": "images/pate.png",
+    "price": "70",
+    "components": "Tomate, Fruits de mer"
+  },
+  {
+    "id": 10,
+    "name": "Dessert",
+    "imageUrl": "images/dessert.png",
+    "price": "35",
+    "components": "Chocolat Glace"
+  }
+]
